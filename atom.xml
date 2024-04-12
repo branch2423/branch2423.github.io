@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/branch2423/branch2423.github.io.git</id>
+    <id>https://github.com/branch2423/branch2423.github.io</id>
     <title>八云分号の窝</title>
     <subtitle>欢迎前来观光游览~</subtitle>
-    <icon>https://github.com/branch2423/branch2423.github.io.git/assets/favicon.ico</icon>
-    <link href="https://github.com/branch2423/branch2423.github.io.git" />
+    <icon>https://github.com/branch2423/branch2423.github.io/assets/favicon.ico</icon>
+    <link href="https://github.com/branch2423/branch2423.github.io" />
     <author>
       <name>J八云分号</name>
     </author>
     <updated>2024-04-12T15:49:20.000Z</updated>
     <category term="生活" />
     <entry>
-        <id>https://github.com/branch2423/branch2423.github.io.git/2024/04/12/111/</id>
+        <id>https://github.com/branch2423/branch2423.github.io/2024/04/12/111/</id>
         <title>111</title>
-        <link rel="alternate" href="https://github.com/branch2423/branch2423.github.io.git/2024/04/12/111/"/>
+        <link rel="alternate" href="https://github.com/branch2423/branch2423.github.io/2024/04/12/111/"/>
         <content type="html"></content>
         <updated>2024-04-12T15:49:20.000Z</updated>
     </entry>
